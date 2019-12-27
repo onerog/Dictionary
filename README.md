@@ -1,0 +1,2 @@
+# Dictionary
+Implemented with hashtable
